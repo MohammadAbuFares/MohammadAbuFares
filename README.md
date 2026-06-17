@@ -22,4 +22,4 @@ I am currently advancing through an intensive, multi-stage software engineering 
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](www.linkedin.com/in/mohammad-abu-fares-dotnet) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-abu-fares-dotnet)
