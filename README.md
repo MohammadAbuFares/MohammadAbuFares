@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammad Abu Fares 👋
 
-<!--
-**MohammadAbuFares/MohammadAbuFares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate, self-taught Software Engineer based in Irbid, Jordan. I specialize in desktop application development, harnessing the power of **C#**, **.NET Framework**, and **SQL Server** to build robust, scalable, and high-performance solutions. 
 
-Here are some ideas to get you started:
+I document my continuous learning journey using the Zettelkasten method in Obsidian, constantly refining my understanding of software design and architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛣️ My Programming Roadmap Progress
+I am currently advancing through an intensive, multi-stage software engineering curriculum at **ProgrammingAdvices.com**:
+- 🟢 **Current Milestone:** Finishing Course 18 (Advanced Concepts & Refactoring).
+- 🟡 **Next Up:** Course 19 - Driving & Licenses Management System Project (DVLD).
+
+---
+
+### 💻 Tech Stack & Tools
+- **Languages:** C# (WinForms)
+- **Databases:** Microsoft SQL Server
+- **Tools:** Visual Studio, Git, GitHub, Obsidian (Zettelkasten PKM)
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](www.linkedin.com/in/mohammad-abu-fares-dotnet) 
